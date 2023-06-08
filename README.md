@@ -1,4 +1,10 @@
 ### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/094cb508-d44f-4c85-9e2b-650e66ebd568.svg)](https://wakatime.com/@094cb508-d44f-4c85-9e2b-650e66ebd568)
+- 🔭 I’m currently working on a 2D platformer game 
+- 🌱 I’m currently learning Python, Django, SQl
+- 📫 How to reach me: @Pro100grammer on Telegram or https://www.linkedin.com/in/pro100grammer/
+- ⚡ Fun fact: There are 10 types of people in the world… those
+that understand binary and those that don’t.”
 
 <!--
 **Pro100grammist/Pro100grammist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
