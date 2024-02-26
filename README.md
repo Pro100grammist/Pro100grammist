@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/094cb508-d44f-4c85-9e2b-650e66ebd568.svg)](https://wakatime.com/@094cb508-d44f-4c85-9e2b-650e66ebd568)
 - 🔭 I’m currently working on a 2D platformer game & develop simple websites on Django
-- 🌱 I’m currently learning Python, Django, SQl,  HTML5 & CSS3
+- 🌱 I’m currently learning Python, Django, SQl,  HTML5|CSS3|JS
 - 📫 How to reach me: @Pro100grammer on Telegram or https://www.linkedin.com/in/pro100grammer/
 - ⚡ Fun fact: There are 10 types of people in the world… those
 that understand binary and those that don’t.”
