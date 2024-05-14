@@ -1,11 +1,12 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/094cb508-d44f-4c85-9e2b-650e66ebd568.svg)](https://wakatime.com/@094cb508-d44f-4c85-9e2b-650e66ebd568)
-- 🔭 I’m currently working on a 2D platformer game & develop simple websites on Django
-- 🌱 I’m currently learning Python, Django, SQl,  HTML5|CSS3|JS
+- 🔭 I'm currently working on an indie game (2D platformer with RPG elements) and learning how to build fully functional websites from start to finish:
+Developing the frontend with HTML, CSS, and JavaScript -> Building the backend with Python and frameworks like Django, Flask, or FastAPI -> Setting up the interaction between the frontend and the database -> Testing and debugging -> Deployment.
+- 🌱 I’m currently learning Python, Django, SQl, HTML5|CSS3|JS, Git, Bash
 - 📫 How to reach me: @Pro100grammer on Telegram or https://www.linkedin.com/in/pro100grammer/
 - ⚡ Fun fact: There are 10 types of people in the world… those
 that understand binary and those that don’t.”
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cb3e4ae6-0468-4ea2-90d6-ab37ef9b8240" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **Pro100grammist/Pro100grammist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
