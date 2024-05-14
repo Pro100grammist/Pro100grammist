@@ -6,7 +6,7 @@ Developing the frontend with HTML, CSS, and JavaScript -> Building the backend w
 - 📫 How to reach me: @Pro100grammer on Telegram or https://www.linkedin.com/in/pro100grammer/
 - ⚡ Fun fact: There are 10 types of people in the world… those
 that understand binary and those that don’t.”
-![Credly Badge](https://www.credly.com/badges/cb3e4ae6-0468-4ea2-90d6-ab37ef9b8240/public_url)
+[![Credly Badge](https://www.credly.com/badges/cb3e4ae6-0468-4ea2-90d6-ab37ef9b8240/public_url)]
 
 <!--
 **Pro100grammist/Pro100grammist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
