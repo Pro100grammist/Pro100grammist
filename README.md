@@ -1,23 +1,21 @@
-### Hi there 👋
+# 💫 About Me:
+👨‍💻 About Me<br>Hi! I'm a Python web developer passionate about building functional and elegant solutions from scratch.<br><br>🚀 While I don't yet have commercial experience, I’ve independently delivered a fully deployed freelance website, handling everything from:<br>Frontend → Backend → Database → Deployment.<br><br>🎮 In my free time, I'm working on an indie 2D platformer game with RPG elements using Pygame. This hobby project helps me dive deeper into game loops, animation systems, physics, and code architecture in Python.<br><br>🔧 Currently working with:<br>🐍 Python | Django | FastAPI | Flask<br><br>🧠 SQL | PostgreSQL<br><br>🌐 HTML5 | CSS3 | JavaScript<br><br>🛠️ Git | Bash | Deployment<br><br>🎯 Goals:<br>Keep improving as a backend/web developer<br><br>Explore automation, APIs, and scalable architectures<br><br>Sharpen problem-solving and clean code practices<br><br>📫 Reach me at:<br>Telegram: @Pro100grammer<br><br>LinkedIn: /in/pro100grammer<br><br>⚡ Fun fact: There are 10 types of people in the world… those who understand binary and those who don’t.
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Oleg Sencha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Oleh Sencha) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Oleh Sencha) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=flat&logo=travis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Oleh Sencha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Oleh Sencha&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oleh Sencha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Oleh Sencha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 [![wakatime](https://wakatime.com/badge/user/094cb508-d44f-4c85-9e2b-650e66ebd568.svg)](https://wakatime.com/@094cb508-d44f-4c85-9e2b-650e66ebd568)
-- 🔭 I'm currently working on an indie game (2D platformer with RPG elements) and learning how to build fully functional websites from start to finish:
-Developing the frontend with HTML, CSS, and JavaScript -> Building the backend with Python and frameworks like Django, Flask, or FastAPI -> Setting up the interaction between the frontend and the database -> Testing and debugging -> Deployment.
-- 🌱 I’m currently learning Python, Django, SQl, HTML5|CSS3|JS, Git, Bash
-- 📫 How to reach me: @Pro100grammer on Telegram or https://www.linkedin.com/in/pro100grammer/
-- ⚡ Fun fact: There are 10 types of people in the world… those
-that understand binary and those that don’t.”
 
-<!--
-**Pro100grammist/Pro100grammist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=Oleh Sencha&icon=0&color=0)](https://visitcount.itsvg.in)
