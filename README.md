@@ -1,21 +1,140 @@
-# 💫 About Me:
-👨‍💻 About Me<br>Hi! I'm a Python web developer passionate about building functional and elegant solutions from scratch.<br><br>🚀 While I don't yet have commercial experience, I’ve independently delivered a fully deployed freelance website, handling everything from:<br>Frontend → Backend → Database → Deployment.<br><br>🎮 In my free time, I'm working on an indie 2D platformer game with RPG elements using Pygame. This hobby project helps me dive deeper into game loops, animation systems, physics, and code architecture in Python.<br><br>🔧 Currently working with:<br>🐍 Python | Django | FastAPI | Flask<br><br>🧠 SQL | PostgreSQL<br><br>🌐 HTML5 | CSS3 | JavaScript<br><br>🛠️ Git | Bash | Deployment<br><br>🎯 Goals:<br>Keep improving as a backend/web developer<br><br>Explore automation, APIs, and scalable architectures<br><br>Sharpen problem-solving and clean code practices<br><br>📫 Reach me at:<br>Telegram: @Pro100grammer<br><br>LinkedIn: /in/pro100grammer<br><br>⚡ Fun fact: There are 10 types of people in the world… those who understand binary and those who don’t.
+<div id="header" align="center">
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ4aTZsMjBrZ3pkYXI1N3VhOHgxendmb2FzbDJubjZyajVwbHA3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Oleg Sencha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Oleh Sencha) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Oleh Sencha) 
+<h1>
+Hey there, I'm Oleh!
+</h1>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=flat&logo=travis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Oleh Sencha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Oleh Sencha&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oleh Sencha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+  
+### 👨‍💻 About Me :
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Oleh Sencha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Python Web Developer | Indie Game Developer (PyGame) | Tech Enthusiast
 
-[![wakatime](https://wakatime.com/badge/user/094cb508-d44f-4c85-9e2b-650e66ebd568.svg)](https://wakatime.com/@094cb508-d44f-4c85-9e2b-650e66ebd568)
+🚀 I’m currently working on an indie 2D platformer game with RPG elements using **PyGame**, and recently delivered a **fully functional freelance website**, including frontend, backend, database integration, and deployment.
+
+🔧 My interests span across:
+- Backend development with Django or FastAPI  
+- Full-cycle web development  
+- Game programming as a hobby  
+- Clean architecture and automation
+
+📫 Reach me at:  
+[Telegram: @Pro100grammer](https://t.me/Pro100grammer)  
+[LinkedIn](https://www.linkedin.com/in/pro100grammer/)
+
+⚡ Fun fact: There are 10 types of people in the world… those who understand binary and those who don’t.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Oleh Sencha&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🌐 Languages :
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
+  <tr> 🇺🇦 Ukrainian - Native </tr>
+  <tr> 🇬🇧 English - Pre-Intermediate </tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Currently+building:+2D+RPG+game+with+PyGame!;Learning+Django,+FastAPI+,+and+more...;Let's+connect!+%F0%9F%91%89;" alt="Typing" />
+</div>
+
+---
+
+### 🧰 My Stack and Tools :
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="88"><img src="./images/python.svg" width="44"/><br>Python</td>
+    <td align="center" width="88"><img src="./images/django.svg" width="44"/><br>Django</td>
+    <td align="center" width="88"><img src="./images/djangorest.svg" width="44"/><br>DRF</td>
+    <td align="center" width="88"><img src="./images/fastapi.svg" width="44"/><br>FastAPI</td>
+    <td align="center" width="88"><img src="./images/sql.svg" width="44"/><br>SQL</td>
+    <td align="center" width="88"><img src="./images/sqlite.svg" width="44"/><br>SQLite</td>
+    <td align="center" width="88"><img src="./images/postgresql.svg" width="44"/><br>PostgreSQL</td>
+    <td align="center" width="88"><img src="./images/redis.svg" width="44"/><br>Redis</td>
+    <td align="center" width="88"><img src="./images/git.svg" width="44"/><br>Git</td>
+    <td align="center" width="88"><img src="./images/github.svg" width="44"/><br>GitHub</td>
+  </tr>
+  <tr>
+    <td align="center" width="88"><img src="./images/githubactions.svg" width="44"/><br>GH Actions</td>
+    <td align="center" width="88"><img src="./images/travis.svg" width="44"/><br>TravisCI</td>
+    <td align="center" width="88"><img src="./images/swagger.svg" width="44"/><br>Swagger</td>
+    <td align="center" width="88"><img src="./images/html5.svg" width="44"/><br>HTML5</td>
+    <td align="center" width="88"><img src="./images/css3.svg" width="44"/><br>CSS3</td>
+    <td align="center" width="88"><img src="./images/bootstrap.svg" width="44"/><br>Bootstrap</td>
+    <td align="center" width="88"><img src="./images/figma.svg" width="44"/><br>Figma</td>
+    <td align="center" width="88"><img src="./images/docker.svg" width="44"/><br>Docker</td>
+    <td align="center" width="88"><img src="./images/linux.svg" width="44"/><br>Linux</td>
+    <td align="center" width="88"><img src="./images/nginx.svg" width="44"/><br>Nginx</td>
+  </tr>
+  <tr>
+    <td align="center" width="88"><img src="./images/gunicorn.svg" width="44"/><br>Gunicorn</td>
+    <td align="center" width="88"><img src="./images/heroku.svg" width="44"/><br>Heroku</td>
+    <td align="center" width="88"><img src="./images/render.svg" width="44"/><br>Render</td>
+    <td align="center" width="88"><img src="./images/pythonanywhere.svg" width="44"/><br>PyAnywhere</td>
+    <td align="center" width="88"><img src="./images/jira.svg" width="44"/><br>Jira</td>
+    <td align="center" width="88"><img src="./images/vscode.svg" width="44"/><br>VSCode</td>
+    <td align="center" width="88"><img src="./images/pycharm.svg" width="44"/><br>PyCharm</td>
+    <td align="center" width="88"><img src="./images/sublime.svg" width="44"/><br>Sublime</td>
+    <td align="center" width="88"><img src="./images/codepen.svg" width="44"/><br>CodePen</td>
+    <td align="center" width="88"></td>
+  </tr>
+</table>
+</div>
+
+---
+
+### 📊 GitHub Stats :
+
+<table align="center">
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pro100grammist&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro100grammist&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+### 🧠 Codewars and Waka Stats :
+
+<div align="center">
+  <a href="https://www.codewars.com/users/Pro100grammist">
+    <img src="https://www.codewars.com/users/Pro100grammist/badges/small" alt="Codewars Stats">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wakatime.com/@094cb508-d44f-4c85-9e2b-650e66ebd568">
+    <img src="https://wakatime.com/badge/user/094cb508-d44f-4c85-9e2b-650e66ebd568.svg" alt="Wakatime Stats">
+  </a>
+</div>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Pro100grammist&theme=radical&no-frame=false&no-bg=true&margin-w=4&exclude=Followers,Stars,Forks,PullRequest,Issues,Reviews)
+
+
+![github-contribution-grid-snake](https://raw.githubusercontent.com/Pro100grammist/Pro100grammist/output/github-contribution-grid-snake.svg)
+
+
+
+<!-- ### 🧰 My Stack and Tools
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) -->
+
+<!-- 
+### 🚀 Featured Projects
+
+- 🔥 [Awesome RPG Game](https://github.com/Pro100grammist/my-rpg-game)
+- 🌐 [Freelance Website Project](https://github.com/Pro100grammist/freelance-site) -->
