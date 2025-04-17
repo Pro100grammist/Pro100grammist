@@ -32,8 +32,8 @@ Python Web Developer | Indie Game Developer (PyGame) | Tech Enthusiast
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table  align="center">
-  <tr> 🇺🇦 Ukrainian - Native </tr>
-  <tr> 🇬🇧 English - Pre-Intermediate </tr>
+  <tr> Ukrainian - Native </tr>
+  <tr> English - Upper-Intermediate </tr>
 </table>
 </div>
 
