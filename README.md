@@ -116,7 +116,9 @@ Python Web Developer | Indie Game Developer (PyGame) | Tech Enthusiast
 </div>
 
 ---
+
 ### ⏱ Weekly Coding Stats
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
