@@ -115,6 +115,12 @@ Python Web Developer | Indie Game Developer (PyGame) | Tech Enthusiast
   </a>
 </div>
 
+---
+### ⏱ Weekly Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pro100grammist&theme=radical&no-frame=false&no-bg=true&margin-w=4&exclude=Followers,Stars,Forks,PullRequest,Issues,Reviews)
