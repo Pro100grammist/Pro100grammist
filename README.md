@@ -120,13 +120,15 @@ Python Web Developer | Indie Game Developer (PyGame) | Tech Enthusiast
 ### ⏱ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C611%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C614%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 196.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 34 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -161,18 +163,23 @@ Sunday                   58 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-PLpgSQL                  46 mins             █████████████░░░░░░░░░░░░   53.87 % 
-Other                    39 mins             ████████████░░░░░░░░░░░░░   46.13 % 
+Other                    2 hrs 3 mins        █████████████░░░░░░░░░░░░   53.21 % 
+Python                   1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   35.01 % 
+PLpgSQL                  27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 31 mins       ████████████████░░░░░░░░░   64.99 % 
+PyCharm                  1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   35.01 % 
 
 🐱‍💻 Projects: 
-Unknown Project          46 mins             ██████████████░░░░░░░░░░░   54.58 % 
-fairyland_frontiers_site 38 mins             ███████████░░░░░░░░░░░░░░   45.42 % 
+fairyland_frontiers_site 2 hrs 5 mins        █████████████░░░░░░░░░░░░   53.90 % 
+TestGameOne              1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   34.91 % 
+Unknown Project          25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+artist_portfolio         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -189,7 +196,7 @@ HTML                     3 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pro100grammist/Pro100grammist/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2025 01:52:22 UTC
+ Last Updated on 12/05/2025 01:50:40 UTC
 <!--END_SECTION:waka-->
 
 ---
