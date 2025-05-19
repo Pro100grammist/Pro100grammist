@@ -120,7 +120,7 @@ Python Web Developer | Indie Game Developer (PyGame) | Tech Enthusiast
 ### ⏱ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C621%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C621%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -196,7 +196,7 @@ HTML                     3 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pro100grammist/Pro100grammist/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2025 01:53:51 UTC
+ Last Updated on 19/05/2025 01:52:51 UTC
 <!--END_SECTION:waka-->
 
 ---
