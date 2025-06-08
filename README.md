@@ -120,15 +120,15 @@ Python Web Developer | Indie Game Developer (PyGame) | Tech Enthusiast
 ### ⏱ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C635%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C635%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 197.0 kB Used in GitHub's Storage 
+> 📦 197.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 36 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -136,52 +136,6 @@ Python Web Developer | Indie Game Developer (PyGame) | Tech Enthusiast
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-🌆 Daytime                77 commits          ████████░░░░░░░░░░░░░░░░░   33.05 % 
-🌃 Evening                130 commits         ██████████████░░░░░░░░░░░   55.79 % 
-🌙 Night                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Tuesday                  29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Wednesday                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Thursday                 33 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Friday                   43 commits          █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Saturday                 29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Sunday                   58 commits          ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Kyiv
-
-💬 Programming Languages: 
-PLpgSQL                  5 hrs 12 mins       ████████████████████░░░░░   80.37 % 
-JavaScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-CSS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 18 mins       ████████████████████████░   97.27 % 
-PyCharm                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-
-🐱‍💻 Projects: 
-fairyland_frontiers_site 5 hrs 12 mins       ████████████████████░░░░░   80.37 % 
-artist_portfolio         1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-TestGameOne              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-
-💻 Operating System: 
-Windows                  6 hrs 29 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -196,7 +150,7 @@ HTML                     3 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pro100grammist/Pro100grammist/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2025 01:48:11 UTC
+ Last Updated on 08/06/2025 01:58:33 UTC
 <!--END_SECTION:waka-->
 
 ---
