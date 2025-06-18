@@ -122,7 +122,7 @@ Python Web Developer | Indie Game Developer (PyGame) | Tech Enthusiast
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C635%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -189,7 +189,7 @@ HTML                     3 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pro100grammist/Pro100grammist/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2025 01:51:51 UTC
+ Last Updated on 18/06/2025 01:50:46 UTC
 <!--END_SECTION:waka-->
 
 ---
