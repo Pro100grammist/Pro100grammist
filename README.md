@@ -120,7 +120,7 @@ Python Web Developer | Indie Game Developer (PyGame) | Tech Enthusiast
 ### ⏱ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C635%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C638%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -163,16 +163,19 @@ Sunday                   58 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 7 mins         █████████████░░░░░░░░░░░░   50.80 % 
+PLpgSQL                  1 hr 4 mins         ████████████░░░░░░░░░░░░░   48.54 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+artist_portfolio         2 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -189,7 +192,7 @@ HTML                     3 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pro100grammist/Pro100grammist/main/assets/bar_graph.png)
 
 
- Last Updated on 18/06/2025 01:50:46 UTC
+ Last Updated on 19/06/2025 01:51:54 UTC
 <!--END_SECTION:waka-->
 
 ---
