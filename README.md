@@ -120,7 +120,7 @@ Python Web Developer | Indie Game Developer (PyGame) | Tech Enthusiast
 ### ⏱ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C639%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C639%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -163,20 +163,20 @@ Sunday                   58 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-PLpgSQL                  1 hr 4 mins         ███████████████████████░░   90.49 % 
-Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+PLpgSQL                  1 hr 4 mins         ██████████████████████░░░   89.06 % 
+Python                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         ███████████████████████░░   90.49 % 
-PyCharm                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+VS Code                  1 hr 4 mins         ██████████████████████░░░   89.06 % 
+PyCharm                  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 
 🐱‍💻 Projects: 
-artist_portfolio         1 hr 11 mins        █████████████████████████   100.00 % 
+artist_portfolio         1 hr 12 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -193,7 +193,7 @@ HTML                     3 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pro100grammist/Pro100grammist/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2025 01:48:19 UTC
+ Last Updated on 29/06/2025 02:02:16 UTC
 <!--END_SECTION:waka-->
 
 ---
