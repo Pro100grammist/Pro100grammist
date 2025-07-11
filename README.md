@@ -128,6 +128,8 @@ Python Web Developer | Indie Game Developer (PyGame) | Tech Enthusiast
 
 > 📦 197.1 kB Used in GitHub's Storage 
  > 
+> 🏆 37 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -161,20 +163,16 @@ Sunday                   58 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-CSS                      31 mins             ███████████████░░░░░░░░░░   61.16 % 
-JavaScript               10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Python                   9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  42 mins             ████████████████████░░░░░   81.25 % 
-PyCharm                  9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-artist_portfolio         52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -191,7 +189,7 @@ HTML                     3 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pro100grammist/Pro100grammist/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2025 01:54:34 UTC
+ Last Updated on 11/07/2025 01:56:34 UTC
 <!--END_SECTION:waka-->
 
 ---
